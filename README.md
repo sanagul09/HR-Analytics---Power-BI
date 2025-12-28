@@ -129,13 +129,5 @@ Ordering categorical fields like education level correctly
 Grouping years at company into meaningful tenure ranges
 
 Ensuring visuals displayed data in a logical and interpretable sequence
+<img width="893" height="497" alt="hr 1" src="https://github.com/user-attachments/assets/5bdcfd8d-c863-4a8e-be43-594c172a0629" />
 
-🚀 Future Enhancements
-
-Add predictive attrition analysis
-
-Include salary vs attrition correlation
-
-Add hiring and promotion trend analysis
-
-Automate refresh with live HR data
